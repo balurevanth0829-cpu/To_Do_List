@@ -1,0 +1,1 @@
+A simple and interactive task management application developed using Python and Streamlit. It helps users organize their daily activities by allowing them to add new tasks, mark tasks as completed, delete tasks, and monitor their completion progress. The application provides a clean, user-friendly interface to make daily task management easier and more efficient.
